@@ -21,8 +21,8 @@ Enter the following on the GET NEW ACCESS TOKEN screen:
 |Callback URL|Your OAuth client redirect URL|
 |Auth URL|https://ims-na1.adobelogin.com/ims/authorize/v1|
 |Access Token URL|https://ims-na1.adobelogin.com/ims/token/v1|
-|Client ID|Enter your client id here|
-|Client Secret|Enter your client secret here|
+|Client ID|Enter your client id here (for details: https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/create-oauth-client.md)|
+|Client Secret|Enter your client secret here (for details: https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/create-oauth-client.md)|
 |Scope|openid,AdobeID,read_organizations,additional_info.projectedProductContext,additional_info.job_function|
 |State|Can be left empty|
 |Client Authentication|Send client credentials in body|
